@@ -11,9 +11,9 @@ project_a.egg-info/top_level.txt
 prompt/__init__.py
 prompt/prompt_library.py
 src/__init__.py
-src/docanalyser/__init__.py
-src/doccompare/__init__.py
-src/multidocchat/__init__.py
-src/singledocchat/__init__.py
+src/document_analyzer/__init__.py
+src/document_compare/__init__.py
+src/multi_document_chat/__init__.py
+src/single_document_chat/__init__.py
 utils/LLM_utils.py
 utils/__init__.py
